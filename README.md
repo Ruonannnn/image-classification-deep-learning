@@ -17,7 +17,7 @@ Traditional plant disease diagnosis relies on expert knowledge, which is often u
 ## Dataset
 
 <p align="center">
-  <img src="Plant leave.png" width="600">
+  <img src="Plant leaves.png" width="600">
 </p>
 
 - **Source**: [Plant Village Dataset (Kaggle)](https://www.kaggle.com/datasets/tushar5harma/plant-village-dataset-updated/data)
