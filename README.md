@@ -16,6 +16,10 @@ Traditional plant disease diagnosis relies on expert knowledge, which is often u
 
 ## Dataset
 
+<p align="center">
+  <img src="Plant leave.png" width="600">
+</p>
+
 - **Source**: [Plant Village Dataset (Kaggle)](https://www.kaggle.com/datasets/tushar5harma/plant-village-dataset-updated/data)
 - ~70,000 RGB images (256x256) across 9 plant types and multiple disease categories
 - Renamed classes as "PlantName-DiseaseName" to form 29 distinct categories
@@ -45,3 +49,10 @@ We built and compared two models to evaluate performance on the classification t
 |-----------|-----------------|-------|
 | CNN       | 97%             | Trained from scratch with custom architecture |
 | VGG16     | 96%             | Fine-tuned last layers of pre-trained ImageNet model |
+
+<p align="center">
+  <img src="Plant leave.png" width="600">
+</p>
+<p align="center">
+  <img src="Plant leave.png" width="600">
+</p>
