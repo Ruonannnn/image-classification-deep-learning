@@ -51,6 +51,6 @@ We built and compared two models to evaluate performance on the classification t
 | VGG16     | 96%             | Fine-tuned last layers of pre-trained ImageNet model |
 
 <p align="center">
-  <img src="CNN confusion matrix.png" width="500">
-  <img src="VGG16 confusion matrix.png" width="500">
+  <img src="CNN confusion matrix.png" width="370">
+  <img src="VGG16 confusion matrix.png" width="370">
 </p>
